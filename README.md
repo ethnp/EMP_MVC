@@ -16,12 +16,12 @@ PHPJS<br>
 KnockOut.js<br>
 prettify.js (google)<br>
 googlecharts<br>
-stickey-headers
+stickey-headers<br>
+HTML5shim (for ie compatibility with HTML5)
 
 CSS:<br>
 Twitter Bootstrap<br>
 Google Css<br>
-HTML5shim (for ie compatibility with HTML5)<br>
 
 The way you access a site is similiar to CodeIgniter. The url system. But thats all thats similiar to CI.
 

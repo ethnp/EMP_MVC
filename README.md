@@ -9,7 +9,7 @@ PHP:
 ReadBeanPHP for database
 PHPMailer for emails
 
-JS:
+JS:<br>
 jQuery
 Twitter Bootstrap JS
 PHPJS

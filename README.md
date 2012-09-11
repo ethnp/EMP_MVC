@@ -5,23 +5,23 @@ A PHP MVC Framework
 
 This framework utilizes the following Open Source frameworks:
 
-PHP:
-ReadBeanPHP for database
+PHP:<br>
+ReadBeanPHP for database<br>
 PHPMailer for emails
 
 JS:<br>
-jQuery
-Twitter Bootstrap JS
-PHPJS
-KnockOut.js
-prettify.js (google)
-googlecharts
+jQuery<br>
+Twitter Bootstrap JS<br>
+PHPJS<br>
+KnockOut.js<br>
+prettify.js (google)<br>
+googlecharts<br>
 stickey-headers
 
-CSS:
-Twitter Bootstrap
-Google Css
-HTML5shim (for ie compatibility with HTML5)
+CSS:<br>
+Twitter Bootstrap<br>
+Google Css<br>
+HTML5shim (for ie compatibility with HTML5)<br>
 
 The way you access a site is similiar to CodeIgniter. The url system. But thats all thats similiar to CI.
 
